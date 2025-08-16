@@ -1,1 +1,1 @@
-New branch file
+New branch file shows in both main and new-branch
